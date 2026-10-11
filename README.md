@@ -34,4 +34,4 @@ Key Features & Architecture:
    ```bash
    pip install tensorflow numpy matplotlib pillow opencv-python
 
-   python brain_tumor_dataset_project.py
+   python brain_tumor_dataset_project.py 
